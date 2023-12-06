@@ -1,0 +1,87 @@
+/* header{
+    height: 60px;
+    width: 100%;
+    /* border: solid; */
+    /* background-color: white; */
+    /* display: flex; */
+    /* gap: 10px   ; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* justify-content: space-evenly; */
+/* } */ 
+/* header .search{
+    height: 50px;
+    width: 800px;
+    background-color: lightcyan;
+    /* position: absolute; */
+    /* gap: 10px; */
+    /* border-radius: 10px; */
+    /* position: absolute;
+    left: 200px; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-evenly;   */
+/* } */ 
+
+
+
+
+.nav{
+    height: 70px;
+    width: 100%;
+    background-color:white;  
+    display: flex;  
+    align-items: center;
+    gap: 20px;
+    position:relative;
+    /* box-shadow: 10px 10px 250px 10px;     */
+    
+}
+img{
+    margin-top: -4px;
+    margin-left: 50px;
+}
+.search{
+    margin-left:20px;
+    height: 40px;
+    width: 600px;
+    background-color:  #D3D3D3 ;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}   
+.search input[type="search"]{
+    width: 700px;
+    height: 30px;
+    background: none;
+    border: none;
+    font-size: 15px;
+} 
+/* .home-living{
+ margin-left:10px;
+} 
+.beauty{
+    margin-right: 70px;
+
+}  
+.studio{
+    margin-right: 30px;
+} */
+.profile svg{
+margin-left: 20px;
+/* font-weight: 20px; */
+}
+.wishlist svg{
+    margin-left: 20px;
+
+    }
+.bag svg{
+        margin-left: 8px;
+       
+        }
+
+
+
+
+
+        

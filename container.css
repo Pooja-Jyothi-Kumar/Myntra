@@ -1,0 +1,504 @@
+.sliding
+{
+    height: 400px;
+    width: 100%;
+    background-color:antiquewhite;
+    margin-top: 30px;
+}
+.carousel-item img{
+   margin-left: -2px;
+   height: 400px;
+    width: 100%;
+}
+.blank{
+    height: 50px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+
+}
+.blank p{
+    font-size: 30px;
+}
+.images-set1{
+    height: 300px;
+    width: 100%;
+    background-color:whitesmoke;
+    margin-top: 10px;
+    display: flex;
+   
+    gap: -10px;
+    
+    
+}
+.c1 img{
+height: 300px;
+width: 250px;
+margin-top: 5px;
+margin-left:35px;
+
+}
+ .c1price h2{
+    font-size: 20px;
+    margin-left: 90px;
+}
+.c1price h1{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+.c2 img{
+    height: 300px;
+    width: 250px;
+    margin-top: 5px;
+    /* margin-left: 100px; */
+    }
+    .c2price h2{
+        font-size: 20px;
+        margin-left: 90px;
+    }
+    .c2price h1{
+        font-size: 20px;
+        margin-left: 120px;
+    }
+    .c3 img{
+        height: 300px;
+        width: 250px;
+        margin-top: 5px;
+        }
+ .c3price h2{
+            font-size: 20px;
+            margin-left: 110px;
+        }
+.c3price h1{
+            font-size: 20px;
+            margin-left: 120px;
+        }
+.c4 img{
+            height: 300px;
+            width: 250px;
+            /* margin-top: 5px; */
+                margin-left: 50px;
+                margin-top: 5px;
+            }
+.c4price h2{
+                font-size: 20px;
+                margin-left: 150px;
+            }
+.c4price h1{
+                font-size: 20px;
+                margin-left: 170px;
+            }        
+            .c5 img{
+                height: 300px;
+                width: 250px;
+                /* margin-top: 5px; */
+                margin-left: 50px;
+                margin-top: 5px;
+                }
+    .c5price h2{
+                    font-size: 20px;
+                    margin-left: 140px;
+                }
+    .c5price h1{
+                    font-size: 20px;
+                    margin-left: 160px;
+                }   
+.set1-price{
+    height: 60px;
+    width: 100%;
+    background-color:whitesmoke;
+    margin-top: 10px;
+    display: flex;
+}
+.blank2{
+    height: 50px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.blank2 p{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.shopby1{
+    height: 450px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 10px;   
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+}
+.ethniccontent{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.ethniccontent img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price1{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price1 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.wfh{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.wfh img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price2{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price2 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.activewear{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.activewear img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price3{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price3 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.western{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.western img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price4{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price4 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.jewellery{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.jewellery img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price5{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price5 p{
+    font-size: 20px;
+text-align: center;
+}
+
+
+
+
+.shopby2{
+    height: 450px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 10px;   
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+}
+.ethniccontent{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.ethniccontent img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price1{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price1 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.wfh{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.wfh img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price2{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price2 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.activewear{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.activewear img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price3{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price3 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.western{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.western img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price4{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price4 p{
+    font-size: 20px;
+text-align: center;
+}
+
+.jewellery{
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    margin-left: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.jewellery img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.price5{
+    height: 90px;
+    width: 200px;
+    background: orangered;
+   margin-bottom: -200px;
+   margin-left: -195px;
+   opacity: 0.9;
+
+
+}
+.price5 p{
+    font-size: 20px;
+text-align: center;
+}
+
+
+.ender{
+    height: 290px;
+    width: 100%;
+    /* margin-top:  */
+    background-color:rgba(0, 0, 0, 0.895);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+.ender h6{
+    font-size: 13px;
+    line-height: 13px;
+}
+.ender P{
+    color: gray;
+    font-size: 15px;
+}
+.ender .help{
+    position: relative;
+    bottom: 32px;
+}
+.ender .consumer{
+    position: relative;
+    bottom: 13px;
+}
+.ender .social{
+    position: relative;
+    bottom: 56px;
+}
+.mail{
+    position: relative;
+    bottom: 26px;
+}
+.office{
+    position: relative;
+    bottom: 10px;
+}   
